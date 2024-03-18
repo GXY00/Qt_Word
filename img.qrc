@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/new/head">
+        <file>img/asave.png</file>
+        <file>img/help.png</file>
+        <file>img/new.png</file>
+        <file>img/open.png</file>
+        <file>img/save.png</file>
+        <file>img/setting.png</file>
+        <file>img/Word.png</file>
+        <file>img/123.png</file>
+        <file>img/B.png</file>
+        <file>img/brush.png</file>
+        <file>img/copy.png</file>
+        <file>img/cut.png</file>
+        <file>img/find.png</file>
+        <file>img/fontcolor.png</file>
+        <file>img/I.png</file>
+        <file>img/left.png</file>
+        <file>img/mid.png</file>
+        <file>img/paste.png</file>
+        <file>img/psize.png</file>
+        <file>img/right.png</file>
+        <file>img/rsize.png</file>
+        <file>img/underline.png</file>
+        <file>img/unorder.png</file>
+        <file>img/g.png</file>
+        <file>img/imgs.png</file>
+        <file>img/shape.png</file>
+        <file>img/table.png</file>
+        <file>img/cloud.png</file>
+    </qresource>
+</RCC>

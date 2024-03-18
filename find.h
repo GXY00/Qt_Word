@@ -1,0 +1,22 @@
+#ifndef FIND_H
+#define FIND_H
+
+#include <QWidget>
+
+namespace Ui {
+class Find;
+}
+
+class Find : public QWidget
+{
+    Q_OBJECT
+
+public:
+    explicit Find(QWidget *parent = nullptr);
+    ~Find();
+
+private:
+    Ui::Find *ui;
+};
+
+#endif // FIND_H
